@@ -54,4 +54,4 @@ server.listen(3000, function() {
   console.log("Server listening on port 3000.");
 })
 
-chatServer.listen(server); //socketio
+chatServer.listen(server); //socket.io
